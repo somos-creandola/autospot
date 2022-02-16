@@ -1,0 +1,27 @@
+.carousel-root{
+    position: relative;
+    top: -65px;
+}
+
+.titlePublish{
+    position: relative;
+    top: -50px;
+    color: white;
+}
+.titlePublish h1{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.titlePublish h2{
+    color: gray;
+    position: relative;
+    top: -12px;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.characteristics{
+    position: relative;
+    top: -40px;
+}
